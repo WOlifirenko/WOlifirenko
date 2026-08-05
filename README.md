@@ -1,14 +1,27 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=200&section=header&text=Wesley%20Olifirenko&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Desenvolvedor%20%7C%20Estudante%20de%20ADS&descSize=18&descAlignY=54" width="100%" alt="Wesley Olifirenko" />
+<div align="center">
 
-# >_ Olá! Eu sou o Wesley. (); <img src="https://komarev.com/ghpvc/?username=WOlifirenko&label=Visitas&color=1F6FEB&style=flat-square" alt="Visitas no perfil" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=180&section=header&text=Wesley%20Olifirenko&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32" width="100%" alt="Wesley Olifirenko" />
 
-> *Estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor back-end.* 💻
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Desenvolvedor+Python+%7C+C+%7C+JavaScript;Criador+do+sistema+Start+Trade" alt="Sobre mim" />
+</a>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=WOlifirenko&label=Visitas%20no%20perfil&color=1F6FEB&style=flat-square" alt="Visitas no perfil" />
+<img src="https://img.shields.io/badge/Curitiba-Paran%C3%A1%2C%20Brasil-1F6FEB?style=flat-square&logo=googlemaps&logoColor=white" alt="Localização" />
+
+</div>
+
+## Sobre mim
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas no IFPR** e desenvolvedor com foco em back-end.
 
 Trabalho na **RKS Merchandising** e desenvolvo o **Start Trade**, um sistema de gestão para equipes de campo em trade marketing — do planejamento dos roteiros até relatórios e faturamento.
 
 [![Start Trade](https://img.shields.io/badge/Start%20Trade-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rks.starttrade.tech)
 [![IFPR](https://img.shields.io/badge/IFPR-006633?style=for-the-badge&logo=googlescholar&logoColor=white)](https://ifpr.edu.br)
-[![Colombo, PR](https://img.shields.io/badge/Colombo%20--%20PR-333333?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Curitiba, PR](https://img.shields.io/badge/Curitiba%20--%20PR-333333?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 ## Onde me encontrar 🙃
 
@@ -40,8 +53,8 @@ Roteiros com recorrência automática, registro fotográfico com marca d'água p
 
 ## Github stuff 📋
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=WOlifirenko&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=pt-br)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=WOlifirenko&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
+![Estatísticas](https://github-readme-stats-tawny-ten-23.vercel.app/api?username=WOlifirenko&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=pt-br)
+![Linguagens](https://github-readme-stats-tawny-ten-23.vercel.app/api/top-langs/?username=WOlifirenko&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
 
 ![Sequência](https://streak-stats.demolab.com?user=WOlifirenko&theme=tokyonight&hide_border=true&locale=pt_BR)
 
