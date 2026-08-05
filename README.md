@@ -17,7 +17,7 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas no IFPR** e desenvolvedor com foco em back-end.
 
-Trabalho na **RKS Merchandising** e desenvolvo o **Start Trade**, um sistema de gestão para equipes de campo em trade marketing — do planejamento dos roteiros até relatórios e faturamento.
+Sou Gestor Comercial na **RKS Merchandising** e desenvolvo o **Start Trade**, um sistema de gestão para equipes de campo em trade marketing — do planejamento dos roteiros até relatórios e faturamento.
 
 [![Start Trade](https://img.shields.io/badge/Start%20Trade-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rks.starttrade.tech)
 [![IFPR](https://img.shields.io/badge/IFPR-006633?style=for-the-badge&logo=googlescholar&logoColor=white)](https://ifpr.edu.br)
