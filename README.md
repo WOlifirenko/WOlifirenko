@@ -75,22 +75,42 @@ Entre os recursos: roteiros com recorrência automática, registro fotográfico 
 
 ---
 
-## Estatísticas
+## No que estou trabalhando
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=WOlifirenko&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&locale=pt-br" alt="Estatísticas do GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WOlifirenko&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&locale=pt-br" alt="Linguagens mais usadas" />
+**Evoluindo o Start Trade**
 
-<br>
+Novos módulos de relatório, melhorias no aplicativo de campo e ajustes de performance na API.
 
-<img src="https://streak-stats.demolab.com?user=WOlifirenko&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=1F6FEB&currStreakLabel=58A6FF&locale=pt_BR" alt="Sequência de contribuições" />
+</td>
+<td width="50%" valign="top">
 
-<br>
+**Estudando**
 
-<img src="https://github-profile-trophy.vercel.app/?username=WOlifirenko&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Troféus" />
+Arquitetura de APIs, boas práticas de banco de dados e automação de processos com Python.
 
-</div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Explorando**
+
+Integração com serviços da AWS para armazenamento e processamento de imagens.
+
+</td>
+<td width="50%" valign="top">
+
+**Aberto a**
+
+Conversas sobre desenvolvimento back-end, APIs e projetos com Python.
+
+</td>
+</tr>
+</table>
 
 ---
 
