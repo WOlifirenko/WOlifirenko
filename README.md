@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=180&section=header&text=Wesley%20Olifirenko&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32" width="100%" alt="Wesley Olifirenko" />
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Desenvolvedor+Python+%7C+C+%7C+JavaScript;Criador+do+sistema+Start+Trade" alt="Sobre mim" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=780&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Desenvolvedor+Python+%7C+C+%7C+JavaScript;Criador+do+sistema+Start+Trade" alt="Sobre mim" />
 </a>
 
 <br>
